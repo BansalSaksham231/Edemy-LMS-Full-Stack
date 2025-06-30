@@ -3,13 +3,6 @@
 
 A full-featured **Learning Management System (LMS)** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Edemy allows educators to create and sell courses while providing learners with an interactive learning experience, complete with secure authentication, course progress tracking, video lectures, quizzes, and more.
 
----
-
-## 🔗 Live Demo
-
-🚀 _Coming Soon_
-
----
 
 ## 📁 Project Structure
 
@@ -107,11 +100,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> _Add UI screenshots here: Instructor dashboard, course view, checkout page, etc._
-
----
 
 ## 🧪 Future Enhancements
 
