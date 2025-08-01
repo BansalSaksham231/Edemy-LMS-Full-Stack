@@ -116,11 +116,6 @@ npm run dev
 **Saksham Bansal**  
 [GitHub](https://github.com/BansalSaksham231) · [LinkedIn](https://linkedin.com/in/sakshambansal231)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
